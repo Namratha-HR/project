@@ -216,7 +216,8 @@ const WEATHER_API_KEY = "b0b72746fb74ffb6a3040761cbee2db7";
 const AIR_QUALITY_API_KEY = "d8bb3306-d1a6-4700-9baa-853f5b773af1";
 const FLOOD_API_KEY = "55b6f1a6-627d-4876-abc1-8c25553643de";
 const EARTHQUAKE_API_KEY = "A7P79EnubyYXLwz2eCMAnSSH9TJbi7EsMndMLkrJ";
-${{SECRETS.api_key}}
+const OPENAI_API_KEY =
+  "sk-proj-S7gGtStTzNG6TDycXxSi0H4hQZBrXQgR7EzPYxxxxxxQ6un5CyHafLXSjh_nclf_2oyfNRIJdIhroET3BlbkFJqkHdjOkFLMq2GDCr40UknM_YU7KkalR6ri3SsxIBxO9SN2sOz3n1-4EGAvnGdVu7BTCYUapP8A";
 
 const CORS_PROXY = "https://corsproxy.io/?";
 
